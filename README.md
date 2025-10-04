@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uneeba Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Uneeba </h1>
 <h3 align="center">ASPIRING DATA SCIENTIST</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2001042/screenshots/4951997/media/962921c223bd184ac63ddd13bbf2d0f3.gif">
 
